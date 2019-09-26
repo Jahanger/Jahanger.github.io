@@ -1,2 +1,2 @@
-# Jahanger.github.io
+# Jahanger Kydyraliyev
 мой первый сайт
