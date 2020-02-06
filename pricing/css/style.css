@@ -357,6 +357,10 @@ a{
    transform:rotate(180deg);
    transition:0.3s;
 }
+.big-wrap{
+    display:flex;
+    flex-direction:column;
+}
 @import url(media.css);
 
 
