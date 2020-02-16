@@ -7,4 +7,4 @@
   [pricing](https://jahanger.github.io/pricing/)
 
 
-[maximals] (https://jahanger.github.io/maximals/)
+[maximals](https://jahanger.github.io/maximals/)
