@@ -8,3 +8,6 @@
 
 
 [maximals](https://jahanger.github.io/maximals/)
+
+
+[Snake Game on JS](https://jahanger.github.io/snake/)
