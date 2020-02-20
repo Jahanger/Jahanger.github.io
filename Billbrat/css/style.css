@@ -47,6 +47,7 @@ a{
     ;
     align-items: stretch;
     justify-content: center;
+    width:100%;
 }
 .blue{
     color:#4a5ea8;
@@ -285,6 +286,7 @@ a{
     width:1300px;
     height:220px;
     background-color:#4a5ea8;
+    width:100%;
 }
 .logo{
     position: relative;
@@ -376,6 +378,7 @@ a{
    width:1300px;
    height:32px;
    background-color: #2a4091;
+    width:100%;
 }
 
 
