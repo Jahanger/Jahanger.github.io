@@ -47,7 +47,6 @@ a{
     ;
     align-items: stretch;
     justify-content: center;
-    width:1300px;
 }
 .blue{
     color:#4a5ea8;
@@ -283,7 +282,7 @@ a{
     color:#fff;
     position: relative;
     grid-area:footer;
-    width:100%;
+    width:1300px;
     height:220px;
     background-color:#4a5ea8;
 }
@@ -374,7 +373,7 @@ a{
     justify-content: center;
     grid-area:b;
     color:#fff;
-   width:100%;
+   width:1300px;
    height:32px;
    background-color: #2a4091;
 }
