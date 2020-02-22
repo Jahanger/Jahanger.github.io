@@ -12,4 +12,4 @@
 
 [Snake Game on JS](https://jahanger.github.io/snake/)
 
-[zadanie](https://jahanger.github.io/Billbrat/)
+[zadanie](https://jahanger.github.io/zadanie/)
