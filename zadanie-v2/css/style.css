@@ -472,7 +472,7 @@ a{
         transform: scale(2);
     }
 } */
-@media(max-width:480px){
+/* @media(max-width:480px){
    .redaction{
        width:50%;
    }
@@ -488,4 +488,4 @@ a{
    .footer,.basement{
        width: 100%;
    }
-}
+} */
