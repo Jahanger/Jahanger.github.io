@@ -474,16 +474,16 @@ a{
 } */
 @media(max-width:480px){
    .redaction{
-       width:50%;
+       width:240px;
    }
    .information{
-       width:80%
+       width:360px
    }
    .price-tags{
        flex-direction: column;
    }
    .review{
-       width:80%;
+       width:360px;
    }
    .footer,.basement{
        width: 100%;
