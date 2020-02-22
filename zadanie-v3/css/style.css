@@ -55,6 +55,9 @@ a{
 .mini-text{
     font-size: 12px;
 }
+.italic{
+    font-style:italic;
+}
 .line{
     width:100%;
     margin:13px auto;
