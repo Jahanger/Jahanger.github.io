@@ -467,8 +467,4 @@ a{
         justify-self: center;
     }
 }
-@media(max-width:580px){
-    .content{
-        transform: scale(2);
-    }
-}
+
