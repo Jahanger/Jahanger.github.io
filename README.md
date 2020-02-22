@@ -12,4 +12,4 @@
 
 [Snake Game on JS](https://jahanger.github.io/snake/)
 
-[zadanie](https://jahanger.github.io/zadanie-v3/)
+[zadanie-3](https://jahanger.github.io/zadanie-v3/)
