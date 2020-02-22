@@ -452,4 +452,7 @@ a{
     .redaction{
         justify-self: center;
     }
+    .footer{
+    display:none;
+    }
 }
