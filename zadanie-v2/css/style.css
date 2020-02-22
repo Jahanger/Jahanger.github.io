@@ -472,3 +472,20 @@ a{
         transform: scale(2);
     }
 } */
+@media(max-width:480px){
+   .redaction{
+       width:50%;
+   }
+   .information{
+       width:80%
+   }
+   .price-tags{
+       flex-direction: column;
+   }
+   .review{
+       width:80%;
+   }
+   .footer,.basement{
+       width: 100%;
+   }
+}
