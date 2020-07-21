@@ -13,3 +13,5 @@
 [Snake Game on JS](https://jahanger.github.io/snake/)
 
 [zadanie-v3](https://jahanger.github.io/zadanie-v3/)
+
+[morskoiBoi](https://jahanger.github.io/morskoiBoi/)
